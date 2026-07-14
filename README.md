@@ -158,7 +158,7 @@ git init
 git add .
 git commit -m "Initial commit: Sales Merge Agent Streamlit app"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/sales-merge-agent.git
+git remote add origin https://github.com/SwathiShanubhoga/Merge_Agent.git
 git push -u origin main
 ```
 
